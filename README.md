@@ -1,5 +1,8 @@
 ### Welcome to my codes! 👋
 
+- :wrench: I've worked with Delphi, Mysql, Ruby on Rails Api (Crawlers), MongoDB, a litte bit of React and React Native.
+- :dart: I am currently focusing on API development architecture, backend, testing and deployment.
+- :heartpulse: I Love Jesus!
 <!--
 **armandodelcol-coder/armandodelcol-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
