@@ -1,7 +1,7 @@
 ### Welcome to my codes! 👋
 
 - :wrench: I've worked with Delphi, Mysql, Ruby on Rails Api (Crawlers), MongoDB, a litte bit of React and React Native.
-- :dart: I am currently focusing on Java development, backend, microservices, testing and devops.
+- :dart: I am currently focusing on Fullstack development, backend, microservices, testing and devops.
 - :heartpulse: I Love Jesus!
 <!--
 **armandodelcol-coder/armandodelcol-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
