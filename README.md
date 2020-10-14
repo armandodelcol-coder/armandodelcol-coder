@@ -1,7 +1,10 @@
 ### Welcome to my codes! 👋
 
-- :wrench: I've worked with Delphi, Mysql, Ruby on Rails Api (Crawlers), MongoDB, a litte bit of React and React Native.
-- :dart: I am currently focusing on Fullstack development, backend, microservices, testing and devops.
+I'm Web Systems Developer
+
+- 🔭 I’m currently working on my website (portfolio/blog).
+- 🌱 I’m currently learning HTML/CSS/JQUERY, PHP, POO, Web Systems Development.
+
 - :heartpulse: I Love Jesus!
 <!--
 **armandodelcol-coder/armandodelcol-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
