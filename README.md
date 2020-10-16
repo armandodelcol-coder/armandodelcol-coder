@@ -2,7 +2,7 @@
 
 I'm Web Systems Developer
 
-- 🔭 I’m currently working on my website (portfolio/blog).
+- 🔭 I’m currently working on my project in PHPOO to get one course certificate.
 - 🌱 I’m currently learning HTML/CSS/JQUERY, PHP, POO, Web Systems Development.
 
 - :heartpulse: I Love Jesus!
