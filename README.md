@@ -2,7 +2,6 @@
 
 I'm Web Systems Developer with Fullstack Skills
 
-- 🔭 I’m currently working on my project in PHPOO to get one course certificate.
 - 🌱 I’m currently learning HTML/CSS/JQUERY, PHP, POO, Web Systems Development.
 
 - :heartpulse: I Love Jesus!
