@@ -11,6 +11,7 @@ I also have basic knowledge in:
   - PHP (Mysql)
   - Ruby on Rails (Ruby, Postgresql)
   - Docker & Docker compose
+  - NodeJS (NestJS)
 
 :heartpulse: I Love Jesus!
 <!--
