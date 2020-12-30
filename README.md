@@ -1,8 +1,16 @@
 ### Welcome to my codes! 👋
 
-I'm Web Systems Developer with Fullstack Skills
+I'm Web Systems Developer with Fullstack Skills, but focusing in backend.
 
-- 🌱 I’m currently learning HTML/CSS/JQUERY, PHP, POO, Web Systems Development.
+Main Skills:
+- .NET core 3.1 (C#, Sql Server, Azure)
+- Angular 8+ (Typescript, MongoDB, Firebase)
+
+I also have basic knowledge in:
+- Spring Boot (Java)
+- PHP (Mysql)
+- Ruby on Rails (Ruby, Postgresql)
+- Docker & Docker compose
 
 - :heartpulse: I Love Jesus!
 <!--
