@@ -12,7 +12,7 @@ I also have basic knowledge in:
   - Ruby on Rails (Ruby, Postgresql)
   - Docker & Docker compose
 
-- :heartpulse: I Love Jesus!
+:heartpulse: I Love Jesus!
 <!--
 **armandodelcol-coder/armandodelcol-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
