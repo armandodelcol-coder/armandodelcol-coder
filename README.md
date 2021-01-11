@@ -1,17 +1,22 @@
 ### Welcome to my codes! 👋
 
-I'm Web Systems Developer with Fullstack Skills, but focusing in backend.
+I'm Backend Developer.
 
 Main Skills:
-  - .NET core 3.1 (C#, Sql Server, Azure)
-  - Angular 8+ (Typescript, MongoDB, Firebase)
+  - POO
+  - Api REST with Java (Spring Boot)
+
+Studying:
+ - Machine Learning/Data Science
+ - Big Data/SQL/No Sql
 
 I also have basic knowledge in:
-  - Spring Boot (Java)
+  - .NET core 3.1 (C#, Sql Server, Azure)
   - PHP (Mysql)
   - Ruby on Rails (Ruby, Postgresql)
   - Docker & Docker compose
   - NodeJS (NestJS)
+  - ReactJS/Angular 8+
 
 :heartpulse: I Love Jesus!
 <!--
