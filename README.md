@@ -4,13 +4,16 @@ I'm Backend Developer.
 
 Main Skills:
   - POO
-  - Api REST with Java (Spring Boot)
+  - SQL
+  - Java
 
 Studying:
- - Machine Learning/Data Science
- - Big Data/SQL/No Sql
+ - Data Engineer
+ - Big Data
+ - Python
 
 I also have basic knowledge in:
+  - Api REST with Java (Spring Boot)
   - .NET core 3.1 (C#, Sql Server, Azure)
   - PHP (Mysql)
   - Ruby on Rails (Ruby, Postgresql)
