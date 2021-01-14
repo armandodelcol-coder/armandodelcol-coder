@@ -9,6 +9,8 @@ Studying:
  - Data Engineer
  - Big Data
  - Python
+ - Scala
+ - Golang
 
 I also have some knowledge in:
   - OOP
