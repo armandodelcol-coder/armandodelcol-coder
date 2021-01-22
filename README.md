@@ -2,15 +2,14 @@
 
 I'm Backend Developer.
 
-Main Skills:
-  - SQL
-
 Studying:
+ - Java Backend
+ - SQL
+ - Spring
+ - REST API
+ - Scala
  - Data Engineer
  - Big Data
- - Python
- - Scala
- - Golang
 
 I also have some knowledge in:
   - OOP
