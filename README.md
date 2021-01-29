@@ -13,7 +13,6 @@ Studying:
 
 I also have some knowledge in:
   - OOP
-  - Api REST with Java (Spring Boot)
   - .NET core 3.1 (C#, Sql Server, Azure)
   - PHP (Mysql)
   - Ruby on Rails (Ruby, Postgresql)
