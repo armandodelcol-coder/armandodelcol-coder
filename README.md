@@ -7,9 +7,7 @@ Studying:
  - SQL
  - Spring
  - REST API
- - Scala
  - Software Engineer
- - Big Data
 
 I also have some knowledge in:
   - OOP
