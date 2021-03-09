@@ -3,14 +3,14 @@
 I'm Backend Developer.
 
 Studying:
- - Java Backend
+ - Java
+ - OOP
  - SQL
  - Spring
  - REST API
  - Software Engineer
 
 I also have some knowledge in:
-  - OOP
   - .NET core 3.1 (C#, Sql Server, Azure)
   - PHP (Mysql)
   - Ruby on Rails (Ruby, Postgresql)
