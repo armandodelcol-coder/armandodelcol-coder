@@ -3,8 +3,9 @@
 I'm Backend Developer.
 
 Working with:
- - Java + Spring + Hibernate
+ - Java/Kotlin + Spring/Micronaut + Hibernate
  - REST API
+ - GRPC
 
 Code is the Art of Make Humans Interact with Computer. Code must be Understandable for Humans.
 
