@@ -2,7 +2,7 @@
 
 I'm Backend Developer.
 
-Code is the Art of Make Humans Interact with Computer. Code must be Understandable for Humans.
+My philosofy of code is "the Art of Make Humans Interact with Computer". Code must be Understandable for Humans.
 
 Forever Student ----> Programming Languages, Frameworks, Code Design and Software Architeture.
 
