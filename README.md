@@ -1,6 +1,6 @@
 ### Welcome to my codes! 👋
 
-I'm Backend Developer.
+I'm Software Developer.
 
 My philosofy of code is "the Art of Make Humans Interact with Computer". Code must be Understandable for Humans.
 
