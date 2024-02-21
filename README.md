@@ -1,9 +1,7 @@
 ### Welcome to my codes! 👋
 
-I'm Software Developer.
+I'm Software Developer working in a backend field.
 
-My philosofy of code is "the Art of Make Humans Interact with Computer". Code must be Understandable for Humans.
-
-Forever Student ----> Programming Languages, Frameworks, Code Design and Software Architeture.
+I'm entering in the cybersecurity world. In love with Threat Intelligence Analysis, Cyber Defense, Blue Team!
 
 :heartpulse: I Love Jesus!
